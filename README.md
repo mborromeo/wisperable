@@ -1,4 +1,4 @@
-# Wisperable
+# Wisperable [![Build Status](https://travis-ci.org/mborromeo/wisperable.svg?branch=master)](https://travis-ci.org/mborromeo/wisperable)
 
 Get notified of any ActiveModel events using the [Wisper gem](https://github.com/krisleech/wisper).
 
