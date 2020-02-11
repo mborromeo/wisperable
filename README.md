@@ -7,7 +7,7 @@ Get notified of any ActiveModel events using the [Wisper gem](https://github.com
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'wisperable', '~> 0.1'
+gem 'wisperable', '~> 0.2'
 ```
 
 And then execute:
